@@ -1,5 +1,5 @@
 # A-star-path-visualizer
-A python visualization of the A* path finding algorithm. It allows you to pick your start, end location and make obstacles and then view the process of finding the shortest path. You can also choose to include or exclude dialognal movement.
+A python visualization of the A* path finding algorithm. It allows you to pick your start, end location and make obstacles and then view the process of finding the shortest path. You can also choose to include or exclude diagonal movement.
 # Requirements
 - Python 3.x
 - Tkinter
